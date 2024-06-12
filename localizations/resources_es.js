@@ -1,7 +1,7 @@
 const resources_es = {
   pageTitle: "Manifesto",
   logoAlt: "Logo de la marca",
-  productName: "La bufanda Bitcoin",
+  productName: "The Bitcoin Scarf",
   imageAlt: "Foto del artículo",
   menuItems: [
     "Código del producto",
